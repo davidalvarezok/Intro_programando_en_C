@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1699363697 source:c:\tl1\p5ej11\main.c
+	<stdio.h>
+	<stdlib.h>
+	"istack.h"
+
+1699363339 c:\tl1\p5ej11\istack.h
+
+1699363339 source:c:\tl1\p5ej11\istack.c
+	<stdio.h>
+	<stdlib.h>
+	"istack.h"
+

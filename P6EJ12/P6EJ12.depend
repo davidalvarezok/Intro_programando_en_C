@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1699395221 source:c:\tl1\p6ej12\funciones.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"diccionario.h"
+
+1699392394 c:\tl1\p6ej12\diccionario.h
+
+1699394935 source:c:\tl1\p6ej12\main.c
+	<stdio.h>
+	<stdlib.h>
+	"diccionario.h"
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1699262245 source:c:\tl1\p6ej9\main.c
+	<stdio.h>
+	<stdlib.h>
+	"imath.h"
+
+1699262211 source:c:\tl1\p6ej9\codigofuente.c
+	<stdio.h>
+	"imath.h"
+
+1699262086 c:\tl1\p6ej9\imath.h
+

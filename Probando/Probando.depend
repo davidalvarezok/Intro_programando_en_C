@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1699144346 source:c:\tl1\probando\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cabecera.h"
+
+1699143625 source:c:\tl1\probando\funcionvertexto.c
+	<stdio.h>
+	"cabecera.h"
+
+1699144333 c:\tl1\probando\cabecera.h
+

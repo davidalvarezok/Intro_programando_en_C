@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1697064889 source:c:\tl1\p3ej7 union\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
